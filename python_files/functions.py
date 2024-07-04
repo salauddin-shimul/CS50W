@@ -1,6 +1,9 @@
 def cube_num(n):
     return n**3
 
+def square(n):
+    return n**2
+
 num = int(input("Enter number to be cubed: "))
 print(cube_num(num))
 
