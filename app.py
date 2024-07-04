@@ -40,7 +40,7 @@ while i < 5:
 # functions
 
 def square_num(n):
-    return n^2
-print(square_num(52))
+    return n**2
+print(square_num(52))   
 
 
