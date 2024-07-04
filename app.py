@@ -37,3 +37,10 @@ while i < 5:
     print(i)
     i += 1
 
+# functions
+
+def square_num(n):
+    return n^2
+print(square_num(52))
+
+
